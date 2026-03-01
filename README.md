@@ -26,9 +26,9 @@ proyecto_videojuegos_ventas/
 ├── src/                # Funciones auxiliares en scripts de Python.
 ├── models/             # Modelos de ML entrenados (.pkl).
 ├── reports/            # Gráficos y visualizaciones exportadas.
-└── README.md
+└── README.md.
 
-Rodamap
+## Rodamap
 
 🗺️ Hoja de Ruta: Video Games Market Insights & Predictive AnalyticsFase 
 - [ ] **Fase 1**: Cimentación y Calidad de Datos (Completada ✅)
